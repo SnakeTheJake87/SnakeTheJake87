@@ -1,79 +1,100 @@
-# Noctis Labs
+# ArcShift Labs
 
-**Software for gamers, creators, communities, and the people who support them.**
+> **Find Your True North.**
 
-Noctis Labs builds practical, connected products that remove friction from gaming, content creation, community operations, and dedicated-server management.
+**Creator-first software for gamers, streamers, communities, and the people who support them.**
 
-We are not an “AI company.” AI is one of the tools we may use when it genuinely improves a product. The company is defined by the problems we solve, the experiences we create, and the trust we earn.
+ArcShift Labs builds thoughtful technology that helps people create, learn, operate, and grow with greater confidence. We use AI as a partner and guide—not as a replacement for human creativity, judgment, or identity.
 
-> **Technology should make people feel more capable—not more confused.**
+> **Technology should make people feel more capable—not less necessary.**
 
 ---
 
 ## What We Are Building
 
-Noctis Labs is developing a connected software ecosystem for:
+ArcShift is developing a connected software ecosystem for:
 
-- **Gamers** who want clearer guidance, better tools, and less troubleshooting
 - **Creators and streamers** who need workflows that fit their individual voice and style
+- **Gamers** who want clearer guidance, better tools, and less troubleshooting
 - **Communities** that need dependable engagement, moderation, support, and operations tools
 - **Game-server owners** who need simpler setup, monitoring, recovery, backups, updates, and mod management
 - **Support teams** that need structured troubleshooting, documentation, escalation, and resolution workflows
 
-Our products are designed to work together through a shared platform rather than exist as disconnected utilities.
-
----
-
-## Our Difference
-
-### Built around the person—not a template
-
-No two creators, gamers, or communities work in exactly the same way.
-
-Noctis Labs will not build cookie-cutter products, cheap imitations, or one-size-fits-all versions of tools that already exist. We design products that can adapt to a person's goals, workflow, audience, experience level, and creative identity.
-
-Our job is not to tell creators who they should be. It is to help them:
-
-- discover and strengthen their own voice
-- build workflows that feel natural to them
-- make confident decisions without losing control
-- stand out instead of following the same formula as everyone else
-
-> **We do not give every creator the same formula. We give each creator the tools to become more fully themselves.**
-
-### Guidance without criticism
-
-Our products should educate, encourage, and guide. They should never shame users for what they do not know or criticize them for needing help.
-
-### Support is part of the product
-
-Help documentation, troubleshooting, recovery tools, customer support, issue tracking, and resolution workflows are core product features—not afterthoughts.
+Our products are designed to work together through one shared platform rather than exist as disconnected utilities.
 
 ---
 
 ## Current Product Focus
 
-### Noctis Scanner
+### ArcShift Scanner
 
-Our current priority is the first founder-test release of Noctis Scanner: a gaming and streaming companion that identifies relevant in-game information and presents it through a clear, centralized experience.
+Our first product is the **ArcShift Scanner**, an OBS-connected gaming and streaming companion designed to identify relevant in-game information and present it through a clear, centralized experience.
 
-The current development focus is packaging the Windows build, connecting it to OBS, validating the manual workflow, and then advancing toward local on-screen detection.
+The current priority is completing the working prototype, validating the Windows and OBS workflow, and preparing it for founder testing.
 
-### Noctis Server
+### Jordan
+
+**Jordan** is ArcShift's AI guide, coach, and creative partner.
+
+Jordan is designed to:
+
+- teach without criticizing
+- guide without taking control
+- adapt to how each creator learns and communicates
+- respect names, pronunciation, identity, accessibility, privacy, and personal preferences
+- help people become more capable while keeping the creator at the center
+
+### ArcShift Server Manager
 
 A game-server management platform focused on installation, health monitoring, backups, updates, recovery, scheduling, configuration, and mod management.
 
-### Noctis Creator Tools
+### Creator Journeys
 
-Personalized tools for streaming, overlays, workflow automation, audience engagement, content operations, and creator support.
-
-### Noctis Command Center
-
-A central operating dashboard for Noctis Labs products, projects, automations, support operations, and system health.
+Prebuilt, optional onboarding experiences for platforms such as Twitch, YouTube, OBS, Discord, and future creator services. These journeys are designed to reduce fear and confusion while helping people understand what they are setting up.
 
 ### Help Desk & Resolution Center
 
-A customer-support platform for tickets, troubleshooting knowledge, escalation, issue tracking, communication, and resolution.
+Customer support, troubleshooting knowledge, escalation, issue tracking, communication, and resolution workflows are core parts of the ArcShift platform—not afterthoughts.
+
+---
+
+## The ArcShift Way
+
+### The Creator Is the Hero
+
+ArcShift tools exist to support the creator, never overshadow them.
+
+### AI Is a Partner
+
+We build AI to amplify human potential—not replace it.
+
+### Respect Before Intelligence
+
+We ask before assuming. We listen before teaching. We learn before advising.
+
+### Choice Without Judgment
+
+Creators control how they are addressed, how Jordan communicates, how much guidance they receive, and how the product looks, sounds, and moves.
+
+### Comfort by Design
+
+Accessibility is built in from the beginning, including:
+
+- colorblind adaptation
+- photosensitivity protection
+- reduced-motion options
+- adjustable audio and mute controls
+- captions and text-first alternatives
+- readable layouts and scalable text
+- calm, dynamic, and immersive experience modes
+
+### Never Block the Creator
+
+Personalization is optional. Thoughtful defaults should let someone begin using the product immediately.
+
+### Keep Curious
+
+Everyone is both a student and a mentor. Titles create accountability—not superiority. The best idea wins, and egos are checked at the door.
 
 ---
 
@@ -82,62 +103,69 @@ A customer-support platform for tickets, troubleshooting knowledge, escalation, 
 - **Useful before impressive**
 - **Clarity is a feature**
 - **Build for beginners without limiting experts**
-- **Personalize the experience without taking away control**
-- **Automate repetitive work responsibly**
-- **Explain what is happening and what to do next**
-- **Respect privacy, ownership, and user choice**
+- **Personalize without taking away control**
+- **Teach instead of replace**
+- **Protect creators, privacy, ownership, identity, and choice**
+- **Make feedback easy and treat it as a gift**
+- **Design accessibility and safety into the product**
 - **If we build it, we support it**
-- **Reliability earns trust**
-- **Quality over rushed quantity**
+- **Progress over perfection**
 
 ---
 
 ## How We Use AI
 
-AI is an enabling technology inside the company—not the company identity.
+ArcShift is not defined by the technologies we use. We are defined by the principles that guide how we use them.
 
-When used, it should:
+AI may help us:
 
 - teach and explain
-- assist with personalization
+- personalize experiences with consent
 - reduce repetitive work
 - improve testing and documentation
-- help users make informed decisions
-- remain transparent and accountable
-- preserve human judgment and user control
+- support moderation and de-escalation
+- help people make informed decisions
 
-AI should never be added only because it is fashionable.
+AI must remain transparent, accountable, optional where practical, and under human control.
+
+> **AI should leave people feeling more confident, more creative, and more capable—never less important.**
 
 ---
 
-## Long-Term Vision
+## Our Future
 
-Build the most trusted connected software ecosystem for gamers, creators, communities, and game-server operators.
+Technology will evolve. Artificial intelligence will evolve. The way people create will evolve.
 
-One account. One intelligent platform. One connected experience.
+ArcShift will evolve with them.
 
-We will grow by solving real problems well, supporting customers without compromise, and building products people genuinely enjoy using.
+We will adopt new technologies when they genuinely benefit the people we serve and align with our mission, values, safety standards, and creator-first principles.
+
+Our tools may change. Our products may change. The technology behind them will certainly change.
+
+Our purpose will not.
+
+> **No matter how far we travel, we will always return to our True North.**
 
 ---
 
 ## Founder
 
-I'm Jake, founder of Noctis Labs.
+I'm Jake, founder of ArcShift Labs.
 
-I began this company without a traditional software-development background. I am building it by combining real user experience, operational problem-solving, community needs, careful product planning, and modern development tools.
+I began this company without a traditional software-development background. ArcShift started with an idea for a better Pokémon scanner and grew into a broader mission: build technology that guides, protects, and empowers creators without replacing what makes them human.
 
-This profile documents the work as Noctis Labs moves from an idea into a real software company—with quality, clarity, and customer trust as the standard.
+This profile documents ArcShift's journey from prototype to startup—one product, lesson, and creator relationship at a time.
 
 ---
 
 ## Current Priorities
 
-1. Deliver the Noctis Scanner founder test package
-2. Complete real Windows and OBS testing
-3. Improve the product from founder-test feedback
-4. Establish repeatable quality, security, support, and release processes
-5. Build the shared foundation for the wider Noctis Labs ecosystem
+1. Complete and test the ArcShift Scanner prototype
+2. Finalize the ArcShift Founding Documents and Brand Guide
+3. Prepare a private creator-testing program
+4. Build the ArcShift website and waitlist
+5. Establish repeatable quality, accessibility, security, support, and release processes
 
 ---
 
-> **Build with purpose. Execute with clarity. Support without compromise.**
+> **Guide. Protect. Empower. Keep Curious.**
